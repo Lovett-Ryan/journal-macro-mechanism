@@ -20,7 +20,9 @@ The following are qualitative workflow tests completed during development. The f
 
 ### 1. Wildfire: generation from a written specification
 
-Generated a complete annotated climate–wildfire mechanism scene from a written specification, covering drivers, process relationships, feedbacks, and a semantic legend. This historical test image is shown as supplied; the current skill defaults to no overall title inside the artwork.
+Generated a complete annotated climate–wildfire mechanism scene from a written specification informed by the article below, covering drivers, process relationships, feedbacks, and a semantic legend. This test demonstrates scene generation from a scientific specification rather than reconstruction of an existing image layout. This historical test image is shown as supplied; the current skill defaults to no overall title inside the artwork.
+
+Scientific source: Whaley et al., *Current model capabilities and future predictive pathways of wildfires under a changing climate*, Communications Earth & Environment 7, 749 (2026), [article and DOI: 10.1038/s43247-026-04013-w](https://www.nature.com/articles/s43247-026-04013-w).
 
 ![Wildfire mechanism figure generated from a written specification](examples/wildfire-from-scratch.png)
 
